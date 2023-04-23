@@ -26,7 +26,6 @@ Being hardcore Football Fans, we could not resist but to leap at the opportunity
 # What did we learn from this project?
 * Applied Cross Validation GridSearch to optimise our Machine Learning Models
 * Applied Decision Tree Regression and Random Forest Regression on top of the standard Linear Regression to further enhance our predictions
-* Collaborating using Github
 
 # References
 * https://www.kdnuggets.com/decision-tree-algorithm-explained.html
