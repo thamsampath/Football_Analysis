@@ -1,6 +1,9 @@
 # Welcome to football-analysis repository
 # About
-This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting the market value of a football player. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting the market value of a football player. For detailed walkthrough, please view the source code above attached with our powerpoint slides and dataset.
+
+# Motivation
+Being hardcore Football Fans, we could not resist but to leap at the opportunity to find out what affects the Market Value of football players given the highly inflated and ever changing transfer values of players (cough... neymar 2017, 222 million transfer fee). We wanted to investigate the most important facotrs which will affect the market value of a football player.
 
 # Problem Definition
 * Which variable is the most important in predicting the Market Value of a Football Player?
@@ -24,10 +27,6 @@ This is a Mini-Project for SC1005 (Introduction to Data Science and Artificial I
 * Applied Cross Validation GridSearch to optimise our Machine Learning Models
 * Applied Decision Tree Regression and Random Forest Regression on top of the standard Linear Regression to further enhance our predictions
 * Collaborating using Github
-
-# Contributors
-* Sivanesh Sampath
-* Joel Tham
 
 # References
 * https://www.kdnuggets.com/decision-tree-algorithm-explained.html
