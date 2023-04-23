@@ -14,6 +14,7 @@ Being hardcore Football Fans, we could not resist but to leap at the opportunity
 * Boxplots
 * Correlation Heatmap
 * Scatter Plot
+* Feature Importance Plot
 
 # Models Used 
 1. Linear Regression
