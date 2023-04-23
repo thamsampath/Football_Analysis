@@ -9,6 +9,12 @@ Being hardcore Football Fans, we could not resist but to leap at the opportunity
 * Which variable is the most important in predicting the Market Value of a Football Player?
 * Which Model would be the best to predict it?
 
+# Data Visualisation Tools
+* Bar-plots
+* Boxplots
+* Correlation Heatmap
+* Scatter Plot
+
 # Models Used 
 1. Linear Regression
 2. Random Forest Regression
